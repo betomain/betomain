@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @betomain
-- 👀 I’m interested in coding and AI
-- 🌱 I’m currently learning python and AI
-- 💞️ I’m looking to collaborate on AI projects
+Hi mf I'm betomain and im about to hack u
 <!---
 betomain/betomain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
